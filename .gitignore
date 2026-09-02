@@ -1,0 +1,12 @@
+.venv/
+node_modules/
+.qa/
+docs/~$*
+.next/
+.open-next/
+__pycache__/
+*.pyc
+.env
+data/finlens.db
+data/uploads/*
+!data/uploads/.gitkeep

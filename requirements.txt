@@ -1,0 +1,7 @@
+fastapi==0.115.8
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+pdfplumber==0.11.5
+pypdf==5.2.0
+langgraph==1.2.11
+langchain-core==1.5.4
